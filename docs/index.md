@@ -39,16 +39,16 @@
 
 - Day3: 12th May 2021 / 10-12 and 14-16
 
-	-  [Starting with data](https://datacarpentry.org/R-ecology-lesson/02-starting-with-data.html)
+	- [Starting with data](https://datacarpentry.org/R-ecology-lesson/02-starting-with-data.html)
 
 
 - Day4: 13th May 2021 / 10-12 and 14-16
 
-	-  [Manipulating and analyzing data](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html)
+	- [Manipulating and analyzing data](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html)
 
 - Day5: 14th May 2021 / 9-12
 
-        -  [Data visualisation](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html)
+	- [Data visualisation](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html) 
 
 ### Open-source
 
