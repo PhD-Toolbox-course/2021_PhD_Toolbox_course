@@ -24,6 +24,10 @@
 
 **RStudio**: [RStudio](https://www.rstudio.com/products/rstudio/download/)
 
+For Windows user:
+
+**Git for Windows**: [git UI](https://gitforwindows.org/)
+
 <center><h2><p>Schedule</p></h2></center>
 
 - Day 1: 10th May 2021 / 9-12 and 14-16
