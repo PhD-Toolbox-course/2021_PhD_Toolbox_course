@@ -18,7 +18,7 @@
 
 **PhD toolbox workshop** is for any phD student who has data to analyze, no prior computational experience is required. This hands-on workshop teaches basic concepts, skills and tools for working more effectively with data.
 
-**Slack**: [Slack](https://phdtoolbox2021.slack.com/)
+**Slack**: [Slack](https://join.slack.com/t/phdtoolbox2021/shared_invite/zt-orwgq45u-AxE668IZijskD_etAaoPsw)
 
 **R**: [R](https://cran.r-project.org/)
 
