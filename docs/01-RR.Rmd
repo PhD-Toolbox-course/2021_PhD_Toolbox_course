@@ -62,7 +62,7 @@ class: title-slide
 .marco[
 Marco Chiapello
 <br>
-June 8, 2020
+May 10, 2021
 ]
 
 ---
